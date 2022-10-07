@@ -1,4 +1,4 @@
-//short soln:
+//short soln for question Remove k Digits:
 
 class Solution {
 public:
