@@ -1,1 +1,1 @@
-# easy-peasy
+# easy-peasy-questions
